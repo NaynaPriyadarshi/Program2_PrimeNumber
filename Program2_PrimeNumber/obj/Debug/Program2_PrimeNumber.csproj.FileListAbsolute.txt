@@ -1,0 +1,7 @@
+D:\VisualStudioPracticeWork\Program2_PrimeNumber\Program2_PrimeNumber\bin\Debug\Program2_PrimeNumber.exe.config
+D:\VisualStudioPracticeWork\Program2_PrimeNumber\Program2_PrimeNumber\bin\Debug\Program2_PrimeNumber.exe
+D:\VisualStudioPracticeWork\Program2_PrimeNumber\Program2_PrimeNumber\bin\Debug\Program2_PrimeNumber.pdb
+D:\VisualStudioPracticeWork\Program2_PrimeNumber\Program2_PrimeNumber\obj\Debug\Program2_PrimeNumber.csprojAssemblyReference.cache
+D:\VisualStudioPracticeWork\Program2_PrimeNumber\Program2_PrimeNumber\obj\Debug\Program2_PrimeNumber.csproj.CoreCompileInputs.cache
+D:\VisualStudioPracticeWork\Program2_PrimeNumber\Program2_PrimeNumber\obj\Debug\Program2_PrimeNumber.exe
+D:\VisualStudioPracticeWork\Program2_PrimeNumber\Program2_PrimeNumber\obj\Debug\Program2_PrimeNumber.pdb
